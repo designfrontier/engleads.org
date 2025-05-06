@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Typographic Modern Logo with Bold Mid-Century Modern Colors -->
+  <g transform="translate(70, 90)">
+    <!-- Main Logo Shape - Abstract Letter E (Deep Turquoise) -->
+    <path d="M40,40 L40,120 L100,120 L100,100 L60,100 L60,90 L95,90 L95,70 L60,70 L60,60 L100,60 L100,40 Z"
+          fill="#086375"/>
+
+    <!-- Abstract Letter N (Vibrant Orange) -->
+    <path d="M110,40 L130,40 L130,80 L150,40 L170,40 L170,120 L150,120 L150,80 L130,120 L110,120 Z"
+          fill="#FD5200"/>
+
+    <!-- Leadership Node (Cream with Dark Stroke) -->
+    <circle cx="190" cy="80" r="40" fill="#FEF9EF" stroke="#1B1B1E" stroke-width="3"/>
+
+    <!-- Inner Network Representation - Bold Mid-Century Colors -->
+    <circle cx="190" cy="65" r="8" fill="#FD5200"/>
+    <circle cx="175" cy="90" r="8" fill="#086375"/>
+    <circle cx="205" cy="90" r="8" fill="#FBA100"/>
+
+    <!-- Network Connections in Dark Gray-Blue -->
+    <line x1="190" y1="65" x2="175" y2="90" stroke="#1B1B1E" stroke-width="2"/>
+    <line x1="190" y1="65" x2="205" y2="90" stroke="#1B1B1E" stroke-width="2"/>
+    <line x1="175" y1="90" x2="205" y2="90" stroke="#1B1B1E" stroke-width="2"/>
+
+    <!-- Organization Name -->
+    <text x="125" y="150" font-family="Arial, sans-serif" font-weight="bold" font-size="18" text-anchor="middle" fill="#1B1B1E">ENGLEADS.ORG</text>
+    <text x="125" y="170" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" letter-spacing="2" fill="#1B1B1E">ENGINEERING LEADERSHIP NETWORK</text>
+  </g>
+</svg>
